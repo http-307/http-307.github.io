@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://power.gq</id>
+    <id>https://power.lxcl.gq</id>
     <title>陈梓炜的博客</title>
-    <updated>2020-09-18T05:29:05.044Z</updated>
+    <updated>2020-09-18T05:32:26.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://power.gq"/>
-    <link rel="self" href="https://power.gq/atom.xml"/>
+    <link rel="alternate" href="https://power.lxcl.gq"/>
+    <link rel="self" href="https://power.lxcl.gq/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://power.gq/images/avatar.png</logo>
-    <icon>https://power.gq/favicon.ico</icon>
+    <logo>https://power.lxcl.gq/images/avatar.png</logo>
+    <icon>https://power.lxcl.gq/favicon.ico</icon>
     <rights>All rights reserved 2020, 陈梓炜的博客</rights>
 </feed>
