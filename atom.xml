@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://http-307.github.io</id>
+    <id>https://czwblog.gq</id>
     <title>陈梓炜的博客</title>
-    <updated>2020-09-18T05:34:49.921Z</updated>
+    <updated>2020-10-10T13:32:31.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://http-307.github.io"/>
-    <link rel="self" href="https://http-307.github.io/atom.xml"/>
+    <link rel="alternate" href="https://czwblog.gq"/>
+    <link rel="self" href="https://czwblog.gq/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://http-307.github.io/images/avatar.png</logo>
-    <icon>https://http-307.github.io/favicon.ico</icon>
+    <logo>https://czwblog.gq/images/avatar.png</logo>
+    <icon>https://czwblog.gq/favicon.ico</icon>
     <rights>All rights reserved 2020, 陈梓炜的博客</rights>
 </feed>
