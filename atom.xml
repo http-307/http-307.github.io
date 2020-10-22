@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://czwblog.gq</id>
-    <title>陈梓炜的博客</title>
-    <updated>2020-10-22T09:44:09.419Z</updated>
+    <title>凡人多忘事的博客</title>
+    <updated>2020-10-22T09:45:27.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://czwblog.gq"/>
     <link rel="self" href="https://czwblog.gq/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>我只是循规蹈矩的为人处世</subtitle>
     <logo>https://czwblog.gq/images/avatar.png</logo>
     <icon>https://czwblog.gq/favicon.ico</icon>
-    <rights>All rights reserved 2020, 陈梓炜的博客</rights>
+    <rights>All rights reserved 2020, 凡人多忘事的博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://czwblog.gq/post/hello-gridea/</id>
